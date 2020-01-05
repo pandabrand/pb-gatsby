@@ -1,9 +1,11 @@
 module.exports = {
-  name: 'London After Midnight',
-  shortName: 'LAM',
-  description: 'A bold, minimal theme for Gatsby, focused on clean typography & beautiful imagery',
-  url: 'https://gatsby-lam.vaporwavy.io', // Domain of your site without prefix!
+  name: 'pandabrand',
+  shortName: 'pandabrand',
+  description: 'A nice place for me to talk about things I enjoy.',
+  url: 'https://dazzling-murdock-bab346.netlify.com', // Domain of your site without prefix!
   prefix: '/',
-  author: 'Vaporwavy',
-  twitter: ''
+  author: 'pandabrand',
+  twitter: 'https://twitter.com/pandabrand',
+  instagram: 'https://www.instagram.com/pandabrand/',
+  github: 'https://github.com/pandabrand'
 }
