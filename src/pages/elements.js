@@ -533,7 +533,7 @@ const indexQuery = graphql`
       }
     }
     smallPic: file(
-      relativePath: { eq: "fabio-comparelli-696506-unsplash.jpg" }
+      relativePath: { eq: "panda-grass.jpg" }
     ) {
       childImageSharp {
         fluid(maxWidth: 1360) {
@@ -541,7 +541,7 @@ const indexQuery = graphql`
         }
       }
     }
-    medPic: file(relativePath: { eq: "sophia-valkova-30139-unsplash.jpg" }) {
+    medPic: file(relativePath: { eq: "panda-grass.jpg" }) {
       childImageSharp {
         fluid(maxWidth: 1360) {
           ...GatsbyImageSharpFluid
@@ -549,7 +549,7 @@ const indexQuery = graphql`
       }
     }
     largePic: file(
-      relativePath: { eq: "vladimir-malyutin-98174-unsplash.jpg" }
+      relativePath: { eq: "panda-grass.jpg" }
     ) {
       childImageSharp {
         fluid(maxWidth: 1360) {
