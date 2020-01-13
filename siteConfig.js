@@ -2,7 +2,7 @@ module.exports = {
   name: 'pandabrand',
   shortName: 'pandabrand',
   description: 'A nice place for me to talk about things I enjoy.',
-  url: 'https://dazzling-murdock-bab346.netlify.com', // Domain of your site without prefix!
+  url: 'https://www.pandabrand.net', // Domain of your site without prefix!
   prefix: '/',
   author: 'pandabrand',
   twitter: 'https://twitter.com/pandabrand',
