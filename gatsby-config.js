@@ -101,11 +101,5 @@ module.exports = {
     `gatsby-plugin-offline`,
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-netlify-cms`,
-    {
-      resolve: `gatsby-plugin-netlify-identity`,
-      options: {
-        url: urljoin(siteConfig.url, siteConfig.prefix)
-      }
-    },
   ],
 }
