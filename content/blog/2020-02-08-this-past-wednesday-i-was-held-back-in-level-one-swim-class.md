@@ -6,7 +6,7 @@ tags:
   - personal
   - learning
   - failure
-thumbnail: /assets/Large_Glass_Fishing_Float_with_Net_1.jpeg
+thumbnail: ../assets/Large_Glass_Fishing_Float_with_Net_1.jpeg
 ---
 This past Wednesday after five weeks of lessons I took my first swim assessment in my second attempt at learning to swim as an adult. There were only two people in my class including myself. So it was a bit of punch in the gut when my teacher announced that my classmate was moving on to level 2 and she would talk with me about what's next. She assured me that I have made great progress since the beginning of class but since I was still struggling with floating I would be best served by another session in level 1.  
   
