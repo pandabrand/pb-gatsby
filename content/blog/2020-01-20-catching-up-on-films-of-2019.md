@@ -6,7 +6,7 @@ tags:
   - moveis
   - san francisco
   - '2019'
-thumbnail: /assets/gallery_xlarge.jpg
+thumbnail: ../assets/gallery_xlarge.jpg
 ---
 ##I'm a ding dong  
 

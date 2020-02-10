@@ -4,9 +4,12 @@ const siteConfig = require("./siteConfig")
 module.exports = {
   siteMetadata: {
     title: siteConfig.name,
+    titleTemplate: '%s',
     author: siteConfig.author,
     description: siteConfig.description,
     siteUrl: urljoin(siteConfig.url, siteConfig.prefix),
+    image: './content/assets/portrait.png',
+    twitterUser: '@pandabrand',
     social: {
       twitter: siteConfig.twitter,
       instagram: siteConfig.instagram,
