@@ -1,7 +1,7 @@
 ---
 title: Coming live from your bedroom
 date: 2020-02-17T04:03:47.629Z
-description: trying to understand how pairs of China are handling the pandemic
+description: trying to understand how parts of China are handling the pandemic
 tags:
   - world
   - coronavirus
