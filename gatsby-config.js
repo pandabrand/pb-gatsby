@@ -4,12 +4,12 @@ const siteConfig = require("./siteConfig")
 module.exports = {
   siteMetadata: {
     title: siteConfig.name,
-    titleTemplate: '%s',
+    titleTemplate: "%s",
     author: siteConfig.author,
     description: siteConfig.description,
     siteUrl: urljoin(siteConfig.url, siteConfig.prefix),
-    image: './content/assets/portrait.png',
-    twitterUser: '@pandabrand',
+    image: "./content/assets/portrait.png",
+    twitterUser: "@pandabrand",
     social: {
       twitter: siteConfig.twitter,
       instagram: siteConfig.instagram,
@@ -73,7 +73,7 @@ module.exports = {
           require("postcss-easy-import")(),
           require("postcss-custom-properties")({ preserve: false }),
           require("postcss-color-function")(),
-          require("autoprefixer")({ browsers: ["last 2 versions"] }),
+          require("autoprefixer")(),
         ],
       },
     },
@@ -84,8 +84,8 @@ module.exports = {
         develop: true, // Enable while using `gatsby develop`
         // tailwind: true, // Enable tailwindcss support
         // whitelist: ['whitelist'], // Don't remove this selector
-        ignore: ['/ignored.css', 'prismjs/', '/prism.css', 'docsearch.js/'], // Ignore files/folders
-        purgeOnly : ['components/', '/main.css', 'bootstrap/'], // Purge only these files/folders
+        ignore: ["/ignored.css", "prismjs/", "/prism.css", "docsearch.js/"], // Ignore files/folders
+        purgeOnly: ["components/", "/main.css", "bootstrap/"], // Purge only these files/folders
       },
     },
     {
