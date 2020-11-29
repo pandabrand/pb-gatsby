@@ -5,9 +5,10 @@ description: Just finished watching The Last Black Man in San Francisco
 tags:
   - moveis
   - san francisco
-  - '2019'
-thumbnail: ../assets/gallery_xlarge.jpg
+  - "2019"
+thumbnail: /images/gallery_xlarge.jpg
 ---
-##I'm a ding dong  
 
-I waited wayyyy too long to watch this film. It is such a beautiful, heartbreaking movie. If you haven't watch it for the beginning alone. Such a great, wonderful piece of filmmaking. Highly reccomended.
+##I'm a ding dong
+
+I waited wayyyy too long to watch this film. It is such a beautiful, heartbreaking movie. If you haven't watch it for the beginning alone. Such a great, wonderful piece of filmmaking. Highly recommended.

@@ -2,9 +2,10 @@
 title: Kicking it off, again.
 date: 2020-01-05T21:20:05.493Z
 description: That thing where I continue to try to again and again
-tags: ['general', 'personal', 'continue to begin', 'blogging']
-thumbnail: '../assets/start-over.jpg'
+tags: ["general", "personal", "continue to begin", "blogging"]
+thumbnail: /images/start-over.jpg
 ---
+
 ##This is it, again
 New year, new blog. I'm trying this again.
 
@@ -14,9 +15,9 @@ For example this new blog, I started it out on a new framework [Gatsby by the wa
 
 So, yes here we go again. Maybe this time it will stick. I'll leave you with the quote that makes me try again and again.
 
->Doubt increases with inaction.  
->Clarity reveals itself in momentum.  
->Growth comes from progress.  
->For all these reasons, BEGIN.  
+> Doubt increases with inaction.  
+> Clarity reveals itself in momentum.  
+> Growth comes from progress.  
+> For all these reasons, BEGIN.
 
 _-Brandon Burchard_

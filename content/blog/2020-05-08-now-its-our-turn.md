@@ -7,7 +7,7 @@ tags:
   - covid19
   - pandemic
   - internet
-thumbnail: ../assets/twitch-hideout.jpg
+thumbnail: /images/twitch-hideout.jpg
 ---
 
 So my last post was all about how folks in China were dealing with the Covid 19 pandemic. Mostly about the ways they were using the internet to stay connecting and new avenues of performance that artists were using. A few months later and ihave watched performances on Instagram Live, Twitch, and more. As I write this I'm wathcing a recording of a [A-Trak live DJ session](https://www.youtube.com/watch?v=BSlZ53tw1Fc&feature=youtu.be) on YouTube.

@@ -8,7 +8,7 @@ tags:
   - china
   - internet
   - ""
-thumbnail: ../assets/bilibili.jpg
+thumbnail: /images/bilibili.jpg
 ---
 
 As the Coronavirus outbreak continues to unfold I've become really interested in how folks are handling it. Especially the part where the has been city-wide quarantines and the like. How are folks handling being largely confined to their living space? How are they getting everyday supplies like food? How are they seeing themselves reflected from the outside?

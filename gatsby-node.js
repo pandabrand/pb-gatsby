@@ -79,6 +79,12 @@ exports.createPages = ({ graphql, actions }) => {
 exports.onCreateNode = ({ node, actions, getNode }) => {
   const { createNodeField } = actions
 
+  if (node.internal.type == "File" || node.internal.type == "ImageSharp") {
+    console.log(node)
+  }
+
+  fmImagesToRelative(node)
+
   if (node.internal.type === `MarkdownRemark`) {
     const value = createFilePath({ node, getNode })
     createNodeField({
@@ -87,6 +93,4 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
       value,
     })
   }
-
-  fmImagesToRelative(node)
 }
